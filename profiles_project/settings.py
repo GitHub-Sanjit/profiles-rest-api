@@ -25,7 +25,7 @@ SECRET_KEY = 'h169b5=79w-5-a(i(her(pcng2$#q6cr1cx8w-yqswbqqk0h3e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['profiles-rest-api.onrender.com']
 
 
 # Application definition
